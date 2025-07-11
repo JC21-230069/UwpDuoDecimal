@@ -4,6 +4,7 @@ using System.Text; // StringBuilder を使う場合に備えて残していま�
 namespace UwpDuoDecimal
 {
     public class DuoDecimal
+
     {
         private string _value;
 
